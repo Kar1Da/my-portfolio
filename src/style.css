@@ -1,0 +1,57 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Crete Round", serif;
+}
+
+p {
+  font-family: "Catamaran", sans-serif;
+}
+
+.developer {
+  text-align: center;
+  padding: 100px 50px 50px 50px;
+  background-color: rgb(145, 183, 236);
+}
+
+.developer h1 {
+  font-size: 80px;
+  color: rgb(6, 19, 40);
+}
+
+.developer h2 {
+  font-size: 25px;
+}
+
+.developer p {
+  font-size: 40px;
+}
+
+.developer a {
+  margin: 30px 25px;
+  border: 1px solid rgb(246, 206, 9);
+  padding: 15px 20px;
+  color: rgb(4, 7, 52);
+}
+
+.btn-contact-main {
+  background-color: rgb(246, 206, 9);
+  border-color: rgb(246, 206, 9);
+}
+
+.btn-contact-main:hover {
+  background-color: rgb(218, 202, 27);
+  color: rgb(4, 7, 52);
+}
+
+.btn-about-main {
+  background-color: rgb(241, 227, 81);
+}
+
+.btn-about-main:hover {
+  background-color: rgb(220, 220, 52);
+  color: rgb(4, 7, 52);
+}
