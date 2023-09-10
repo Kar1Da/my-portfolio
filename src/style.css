@@ -152,9 +152,19 @@ body {
   max-width: 400px;
 }
 
+ @media (max-width: 950px ) {
+  .custom-container img {
+    width: 300px;
+  }
+} 
+
 .custom-container p {
   font-size: 20px;
   padding: 30px 30px 0 30px;
+}
+
+.lower-paragraph {
+  text-align: center;
 }
 
 .custom-container h1 {
